@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/f400/full_f400.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common Exodus stuff.
 $(call inherit-product, vendor/exodus/config/common_full_phone.mk)
 
 # Enhanced NFC
